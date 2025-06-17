@@ -16,20 +16,7 @@ Features product listings, cart functionality, user login, and more.
 
 ## 📁 Project Structure
 
-amazon-clone/
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── App.js
-│ └── index.js
-├── public/
-├── package.json
-└── .gitignore 
----
+<pre> ```bash amazon-clone/ ├── backend/ │ ├── models/ │ ├── routes/ │ └── server.js ├── src/ │ ├── components/ │ ├── pages/ │ ├── App.js │ └── index.js ├── public/ ├── package.json └── .gitignore ``` </pre>
 
 ## ✨ Features
 
@@ -51,9 +38,4 @@ git clone https://github.com/your-username/amazon-clone.git
 cd amazon-clone
 npm install
 Install Backend Dependencies
-cd backend
-npm install
-Start MongoDB (if local)
-mongod
 node server.js
-npm start
